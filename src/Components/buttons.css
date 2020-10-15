@@ -1,0 +1,21 @@
+.button-styl {
+    flex-basis: 25%;
+    background: #ffffff;
+    color: #fd4900;
+    padding: 20px;
+    font-size: 25px;
+    text-align: center;
+    border: none;
+    
+    
+  }
+  
+  .button-styl:hover {
+    background-color: white;
+    color: #425062;
+  }
+
+
+
+
+
