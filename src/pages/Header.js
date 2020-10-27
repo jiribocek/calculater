@@ -16,11 +16,11 @@ function calc() {
 
                 </div>
                 <div className='header_option'>
-                    <Link to="/menu">Menu</Link>
+                    <Link to="/menu"><MenuIcon/></Link>
 
                 </div>
                 <div className='header_option'>
-                    <Link to="/calc">Calc</Link>
+                    <Link to="/calc"><DashboardIcon/></Link>
 
                 </div>
                 <div className='header_option'>

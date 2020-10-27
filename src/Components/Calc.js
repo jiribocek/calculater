@@ -1,7 +1,7 @@
 import React from "react";
 import "./Calc.css";
-import ButtonComponent from "./button.js";
-import ButtonComponentt from "./buttons.js";
+import ButtonComponent from "./Button.js";
+import ButtonComponentt from "./Buttons.js";
 
 
 export default function App() {

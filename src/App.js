@@ -9,13 +9,14 @@ function App() {
   return (
     
     <div className="App">
-      <div className='header'>
-        <Header/>
-      </div>
+      <Router>
+        <div className='header'>
+         <Header/>
+        </div>
 
   
-      <main>
-        <Router>
+        <main>
+        
         
           <Switch>
             <Route path="/calc" component={Calc}>
@@ -28,9 +29,9 @@ function App() {
             </Route>
 
           </Switch>
-        </Router>
-      </main>
-      
+        
+        </main>
+      </Router>
       
      </div>
 
